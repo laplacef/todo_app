@@ -1,0 +1,10 @@
+/* Custom Styles */
+
+body {
+    background-color: #f7f7f7;
+}
+
+#todo-list li.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}
